@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    float: left;
+    width: 130px;
+}
+
+.heading{
+    width: 80%;
+    height: 150px;
+    background-image: linear-gradient(to bottom, #FFFFFF, #1A5D93);
+    border: solid #08044D 0px;
+    border-radius: 0px 0px 100px 100px;
+}
+
+.del{
+    width: 95%;
+    overflow: scroll;
+    border-radius: 20px;
+    border: 3px black solid;
+    text-align: center;
+}
+
+.del1{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+ }
+
+ .rid{
+    border-radius: 20px;
+    border: 2px solid #727679;
+ }
+
+ .c1{
+    border-radius: 10px;
+    text-align: center;
+    background-image: linear-gradient(to bottom, white, #6E6E6E);
+    color: #050105;
+    font-size: 15px;
+ }
+
+ .c2{
+    border-radius: 10px;
+    border: 1px solid #000000;
+    padding: 0px 10px 0px 10px;
+    text-align: left;
+    font-size: 15px;
+ }
+
+ .c3{
+    border-radius: 10px;
+    border: 1px solid #000000;
+    font-size: 15px;
+    padding: 0px 10px 0px 10px;
+    text-align: left;
+ }
+
+ .c4{
+    border-radius: 10px;
+    border: 1px solid #000000;
+    font-size: 15px;
+    padding: 0px 10px 0px 10px;
+    text-align: left;
+ }
+ 
+ .c5{
+    border-radius: 10px;
+    border: 1px solid #000000;
+    font-size: 15px;
+    padding: 0px 10px 0px 10px;
+    text-align: left;
+ }
+
+ .c6{
+    border-radius: 10px;
+    border: 1px solid #000000;
+    font-size: 15px;
+    text-align: center;
+ }
+
+ .c7{
+    border-radius: 10px;
+    border: 1px solid #000000;
+    font-size: 20px;
+    text-align: center;
+    background-color: #FF1414;
+ }
+
+ .c8{
+    border-radius: 10px;
+    border: 1px solid #000000;
+    font-size: 20px;
+    text-align: center;
+    background-color: #0035C7;
+ }
+
+ .register{
+    width: 40%;
+    border: tranparent;
+    margin-left: 40%;
+}
+
+ .box{
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    padding: 1px;
+    border: solid #090637 1px;
+    background-image: linear-gradient(to bottom, #FFFFFF, #71737F);
+}
+
+.btn{
+    width: 22%;
+    height: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    border: solid #084003 3px;
+    background-image: linear-gradient(to bottom, #FFFFFF, #1E8217);
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+a{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    float: left;
+    width: 130px;
+}
+
+.heading{
+    width: 80%;
+    height: 150px;
+    background-image: linear-gradient(to bottom, #FFFFFF, #1A5D93);
+    border: solid #08044D 0px;
+    border-radius: 0px 0px 100px 100px;
+}
+
+.btn{
+    width: 25%;
+    height: 50px;
+    border-radius: 100px 100px 100px 100px;
+    background-image: linear-gradient(to bottom, #FFFFFF, #34342D);
+    border: transparent;
+    cursor: pointer;
+}
+
+a{
+    font-family: 'Roboto', sans-serif;
+}
+
+
